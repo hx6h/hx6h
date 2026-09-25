@@ -6,7 +6,7 @@
 
 ## About Me
 - I actually like touching grass
-- I use Arch BTW! (Larp Larp Larp)
+- I use NixOS
 - Using AI because I'm lazy asf
 - I do discord bots, minecraft plugins (and resource packs) and web apps
 - Networking, System Admin, Linux enthusiast
