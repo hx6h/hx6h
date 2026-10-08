@@ -6,7 +6,7 @@
 
 ## About Me
 - I actually like touching grass
-- I use NixOS
+- I triple boot NixOS, Arch and Windows 11
 - Using AI because I'm lazy asf
 - I do discord bots, minecraft plugins (and resource packs) and web apps
 - Networking, System Admin, Linux enthusiast
