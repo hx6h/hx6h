@@ -1,24 +1,33 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+&size=30&pause=1000&color=F700DD&width=435&lines=YOOO!+I+am+Hx6H!" alt="Typing SVG" /></a>
+```text
+      \    /\
+       )  ( ')
+      (  /  )
+       \(__)|
+```
+# hii, i'm Hx6H! :P
+
+[portfolio](https://tomasek.site) · [tg](https://t.me/hx66h) · [repos](https://github.com/hx6h?tab=repositories)
+
 </div>
 
 ---
 
-## About Me
+## who am i
 - I actually like touching grass
-- I triple boot NixOS, Arch and Windows 11
+- I dualboot NixOS and Windows11 with my custom playbook
 - Using AI because I'm lazy asf
 - I do discord bots, minecraft plugins (and resource packs) and web apps
 - Networking, System Admin, Linux enthusiast
 
 ---
 
-## Working on
+## working on
 - **Nothing much** - I'm more focused on myself irl, but I'm still open to new projects
 
 ---
 
-## Technologies
+## knowladge
 
 <div align="center">
 
@@ -28,9 +37,9 @@
 
 ---
 
-## Hit me up
+## hmu
 
 - **E-mail:** [hx6h@proton.me](mailto:hx6h@proton.me)
-- **Portfolio:** [tomasek.site](https://tomasek.site)
+- **Telegram:** [hx66h](https://t.me/hx66h)
 
 </div>
