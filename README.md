@@ -1,11 +1,4 @@
 <div align="center">
-```text
-      \    /\
-       )  ( ')
-      (  /  )
-       \(__)|
-```
- 
 # hii, i'm Hx6H! :P
 
 [portfolio](https://tomasek.site) · [tg](https://t.me/hx66h) · [repos](https://github.com/hx6h?tab=repositories)
