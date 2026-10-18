@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=arch,java,python,js,git,discord,react" />
+<img src="https://skillicons.dev/icons?i=nix,java,python,js,git,discord,react" />
 
 </div>
 
